@@ -109,3 +109,7 @@ Latest versions of Chrome, Edge, Firefox and Safari.
 ## License
 
 This project is for educational and institutional use. Update this section with the license of your choice.
+=======
+# College_Website_clone
+Clone Website of Raja Mahendra Pratap Singh University, Aligarh
+
